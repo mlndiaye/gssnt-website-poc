@@ -51,7 +51,7 @@ export function Header() {
             <GraduationCap className="h-6 w-6 text-primary-foreground" />
           </div>
           <div className="hidden sm:block">
-            <span className="font-serif text-lg font-bold text-foreground">GSSNTT</span>
+            <span className="font-serif text-lg font-bold text-foreground">GSSNT</span>
             <span className="block text-xs text-muted-foreground">Pikine</span>
           </div>
         </Link>
